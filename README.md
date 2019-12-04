@@ -16,4 +16,4 @@ Spring boot with maven 와 vue.js 를 활용하여 만든 websocket-demo
 
 	 Polling, Long Polling은 항상 커넥션을 연결하고, 끊는 과정을 반복했다. 그러나 Streaming 방식은 클라이언트와 서버 사이의 연결을 끊지 않고 필  	 요한 메세지를 계속 전달한다. 그렇기 때문에 커넥션을 맺는 과정에서 발생하는 부담이 줄어든다.
 
-https://lkhlkh23.tistory.com/121 
+	https://lkhlkh23.tistory.com/121 
